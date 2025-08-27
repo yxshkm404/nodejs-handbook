@@ -29,6 +29,14 @@ Click on any topic below to jump directly to detailed notes. ✅
 - [Middleware](./Notes/express/middleware.md)
 - [Template Engines](./Notes/express/templates.md)
 
+### 🔹 Middleware & MVC
+- [Understanding Middleware](./Notes/middleware/understanding-middleware.md)
+- [Refactoring Middleware](./Notes/middleware/refactoring.md)
+- [Model-View-Controller (MVC)](./Notes/mvc/intro.md)
+- [Server-side Rendering (SSR) vs Client-side Rendering (CSR)](./Notes/mvc/ssr-vs-csr.md)
+- [Serving Static Files](./Notes/mvc/static-files.md)
+- [Books API Project (MVC Example)](./Notes/mvc/books-api.md)
+
 ### 🔹 Databases
 - [MongoDB](./Notes/databases/mongodb.md)
 - [Mongoose](./Notes/databases/mongoose.md)
