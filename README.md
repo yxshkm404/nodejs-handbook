@@ -9,54 +9,57 @@ Click on any topic below to jump directly to detailed notes. ✅
 ## 📂 Table of Contents
 
 ### 🔹 Basics
-- [Introduction](./Notes/introduction.md)
-- [Installation](./Notes/installation.md)
-- [Modules](./Notes/modules.md)
-- [NPM (Node Package Manager)](./Notes/npm.md)
-- [Require & Export](./Notes/require-export.md)
+- [Introduction](./basics/introduction.md)
+- [Installation](./basics/installation.md)
+- [Modules](./basics/modules.md)
+- [NPM (Node Package Manager)](./basics/npm.md)
+- [Require & Export](./basics/require-export.md)
 
 ### 🔹 Core Modules
-- [File System (fs)](./Notes/core-modules/filesystem.md)
-- [Path](./Notes/core-modules/path.md)
-- [OS](./Notes/core-modules/os.md)
-- [Events & EventEmitter](./Notes/core-modules/events.md)
-- [Streams & Buffers](./Notes/core-modules/streams.md)
-- [HTTP](./Notes/core-modules/http.md)
+- [File System (fs)](./core-modules/filesystem.md)
+- [Path](./core-modules/path.md)
+- [OS](./core-modules/os.md)
+- [Events & EventEmitter](./core-modules/events.md)
+- [Streams & Buffers](./core-modules/streams.md)
+- [HTTP](./core-modules/http.md)
 
 ### 🔹 Express.js
-- [Introduction to Express](./Notes/express/intro.md)
-- [Routing](./Notes/express/routing.md)
-- [Middleware](./Notes/express/middleware.md)
-- [Template Engines](./Notes/express/templates.md)
+- [Introduction to Express](./express/intro.md)
+- [Routing](./express/routing.md)
+- [Middleware](./express/middleware.md)
+- [Template Engines](./express/templates.md)
 
-### 🔹 Middleware & MVC
-- [Understanding Middleware](./Notes/middleware/understanding-middleware.md)
-- [Refactoring Middleware](./Notes/middleware/refactoring.md)
-- [Model-View-Controller (MVC)](./Notes/mvc/intro.md)
-- [Server-side Rendering (SSR) vs Client-side Rendering (CSR)](./Notes/mvc/ssr-vs-csr.md)
-- [Serving Static Files](./Notes/mvc/static-files.md)
-- [Books API Project (MVC Example)](./Notes/mvc/books-api.md)
+### 🔹 Middleware 
+- [Understanding Middleware](./middleware/understanding-middleware.md)
+- [Refactoring Middleware](./middleware/refactoring.md)
+
+### MVC
+- [Model-View-Controller (MVC)](./mvc/intro.md)
+- [Server-side Rendering (SSR) vs Client-side Rendering (CSR)](./mvc/ssr-vs-csr.md)
+- [Serving Static Files](./mvc/static-files.md)
+- [Books API Project (MVC Example)](./mvc/books-api.md)
+
 
 ### 🔹 Databases
-- [MongoDB](./Notes/databases/mongodb.md)
-- [Mongoose](./Notes/databases/mongoose.md)
-- [MySQL](./Notes/databases/mysql.md)
+- [MongoDB](./databases/mongodb.md)
+- [Mongoose](./databases/mongoose.md)
+- [MySQL](./databases/mysql.md)
 
 ### 🔹 Asynchronous Programming
-- [Callbacks](./Notes/async/callbacks.md)
-- [Promises](./Notes/async/promises.md)
-- [Async/Await](./Notes/async/async-await.md)
+- [Callbacks](./async/callbacks.md)
+- [Promises](./async/promises.md)
+- [Async/Await](./async/async-await.md)
 
 ### 🔹 APIs & Authentication
-- [Building REST APIs](./Notes/apis/rest.md)
-- [Authentication & Authorization](./Notes/apis/auth.md)
+- [Building REST APIs](./apis/rest.md)
+- [Authentication & Authorization](./apis/auth.md)
 
 ### 🔹 Advanced
-- [Error Handling](./Notes/advanced/error-handling.md)
-- [WebSockets & Real-time Apps](./Notes/advanced/websockets.md)
-- [Testing](./Notes/advanced/testing.md)
-- [Deployment](./Notes/advanced/deployment.md)
-- [Best Practices](./Notes/advanced/best-practices.md)
+- [Error Handling](./advanced/error-handling.md)
+- [WebSockets & Real-time Apps](./advanced/websockets.md)
+- [Testing](./advanced/testing.md)
+- [Deployment](./advanced/deployment.md)
+- [Best Practices](./advanced/best-practices.md)
 
 ---
 
